@@ -433,5 +433,13 @@
     "license": "The MIT License and GPLv2",
     "projectURL": "https://github.com/faisalman/ua-parser-js",
     "notes": "Parse User Agents strings to make them human readable"
+  },
+  "vanilla-to-platform-min.js":{
+    "text": [
+      "???"
+    ],
+    "license": "???",
+    "projectURL": "???",
+    "notes": "???"
   }
 }
